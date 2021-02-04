@@ -6,7 +6,4 @@ docker exec -it mysql_container_name bash
 
 
 The log is available through Docker's container log:
-docker logs some-mysql
-
-
-
+docker logs mysql_container_name
