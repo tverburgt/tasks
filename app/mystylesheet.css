@@ -1,0 +1,36 @@
+body {
+	background-color: black;
+	font-family: 'Jost', sans-serif;
+	color: #c07c17;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 40px;
+}
+
+.flex-container hr{
+	width:50%;
+	background-color: #c07c17;
+}
+
+
+input {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-color: #c07c17;
+	background-color: black;
+	width: 100%;
+}
+
+.flex-container button {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-color: #c07c17;
+	background-color: #c07c17;
+	width: 100%;
+	color: whitesmoke;
+}
